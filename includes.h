@@ -1,0 +1,11 @@
+#include <iostream>
+#include <SFML/Graphics.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/Network.hpp>
+#include <SFML/Audio.hpp>
+#include "cbEngine.h"
+#include "stateManager.h"
+#include "onMenu.h"
+#include "splashScreen.h"
+#include "menuScreen.h"
+#include "mouseManager.h"
